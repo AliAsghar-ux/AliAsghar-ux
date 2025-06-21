@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Asghar</h1>
 <h3 align="center">A passionate Mern Stack developer from Pakistan</h3>
-<img src="https://miro.medium.com/v2/resize:fit:1000/1*QNgN523Uz11ckMtlwVUxLw.gif" alt="A description of the image" width="300" height="200" title="Tooltip text" loading="lazy" crossorigin="anonymous">
+<img align="right" src="https://miro.medium.com/v2/resize:fit:1000/1*QNgN523Uz11ckMtlwVUxLw.gif" alt="A description of the image" width="300" height="200" title="Tooltip text" loading="lazy" crossorigin="anonymous">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliasghar-ux&label=Profile%20views&color=0e75b6&style=flat" alt="aliasghar-ux" /> </p>
